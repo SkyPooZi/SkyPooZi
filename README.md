@@ -1,5 +1,5 @@
-# Hi 👋, I'm Moch Siril Wafa Zidane Feliano
-### A passionate Mobile Developer from Indonesia
+<h1 align="center">Hi 👋, I'm Moch Siril Wafa Zidane Feliano</h1>
+<h3 align="center">A passionate Mobile Developer from Indonesia</h3>
 
 - 🔭 I’m currently working as **Fullstack Developer**
 - 🌱 I’m currently learning **Flutter and Laravel**
