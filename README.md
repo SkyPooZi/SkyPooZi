@@ -8,8 +8,8 @@
 - ⚡ Fun fact **I like playing games**
 
 ### Connect with me:
-[![CodePen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg)](https://codepen.io/skypoo)
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/moch-siril-wafa-zidane-feliano-784435292/)
+<a href="https://codepen.io/skypoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="skypoo" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/moch-siril-wafa-zidane-feliano-784435292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/moch-siril-wafa-zidane-feliano-784435292/" height="20" width="20" /></a>
 
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,figma,flutter,dart,github,php,postman)](https://skillicons.dev)
