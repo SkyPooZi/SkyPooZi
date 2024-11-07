@@ -14,4 +14,4 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=figma,github,postman,java,dart,flutter,php,laravel,html,css,js,tailwind,react,nextjs)](https://skillicons.dev)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skypoozi&show_icons=true&theme=radical)
+![skypoozi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skypoozi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
