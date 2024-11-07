@@ -14,6 +14,6 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=figma,github,postman,java,dart,flutter,php,laravel,html,css,js,tailwind,react,nextjs)](https://skillicons.dev)
 
-![skypoozi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skypoozi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 ![skypoozi's Stats](https://github-readme-stats.vercel.app/api?username=skypoozi&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![skypoozi's Streak](https://github-readme-streak-stats.herokuapp.com/?user=skypoozi&theme=tokyonight&hide_border=false)
+![skypoozi's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skypoozi&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
